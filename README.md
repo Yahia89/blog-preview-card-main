@@ -1,3 +1,11 @@
+# Perscholas assignment reflection on the challenge answers (Blog preview card):
+
+How did using Figma designs as references affect your coding process? made it easier to understand the structure and what's expected outcome needs to look like.
+
+What challenges did you encounter when aligning your code with the design specifications? in the one, drop shadow, it seems like there are/or i need 2 layers of them.
+
+How can the feedback and community resources on Frontend Mentor help you improve as a developer? even though they have simple challenges but they are crucial to understand the basics
+
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
